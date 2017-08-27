@@ -1,0 +1,8 @@
+1. Install Code::Blocks
+Use correct one in https://talk.pokitto.com/t/wiki-pokittosim-install-and-use/283
+2. Install PokkitoSim
+https://talk.pokitto.com/t/wiki-pokittosim-install-and-use/283
+3. Install GraphicsGale
+https://graphicsgale.com/us/
+4. Install BMP2POK GUI
+https://www.dropbox.com/s/jld77sntpkfj2gn/img2pok.exe?dl=0
