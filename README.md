@@ -1,8 +1,19 @@
-# Arcade-Classics
-The official GitHub repo for my Arcade Classics game for the Pokitto console.
+# Pokitto Simulator early community version
 
-# How to run the game
-1. Install Code::Blocks at codeblocks.org.
-2. Open Code::Blocks.
-3. Open Pokitto_sim.cbp in the POKITTO_SIM folder.
-4. To run, select the "Game" build target, hit "recompile," and click "Build & Run!"
+author:   Jonne Valola <jonne@pokitto.com>
+lisense:  BSD License
+
+## Instructions
+
+1. Install Code::Blocks (www.codeblocks.org) - Windows users please install the
+   mingw version
+2. Open Code::Blocks
+3. Open project file Pok_sim.cbp from folder POKITTO_SIM
+4. Compile and run, play around and enjoy
+
+
+If you prefer the commandline, you can also build like this:
+```
+codeblocks --target=HelloWorld_lin --rebuild ./POKITTO_SIM/Pokitto_sim.cbp
+```
+
